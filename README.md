@@ -32,15 +32,15 @@ After we have the component hierarchy, it is time to implement the app. The simp
 We have to be able to make modifications to your underlying data model in order to make your UI interactive. React does this, by using state. React is about one-way data flow down the component hierarchy and it is not that clear sometimes which component should own what state.
 
 # How to run the app 
-- Download the document from the repo
-- Open VS Code
-- Open the terminal
-- Make sure to choose the right directory
-- Run a npm install command to install the node modules
-- Run ionic serve and local host will be opened in a browser tab
+1. Download the document from the repo
+2. Open VS Code
+3. Open the terminal
+4. Make sure to choose the right directory
+5. Run a **_npm install_** command to install the node modules
+6. Run **_ionic serve_** and local host will be opened in a browser tab
 
 ### For Android and iOS:
-- Having VS Code opened in the right directory, check if the Android and iOS folders are existing, if not run in the terminal – command npx cap add android/ iOS /running these commands it will download the Android or iOS folder
-- Run command npx cap open
-- Android Studio or XCode will be opened, where you can open the emulator and test the app
+1. Having VS Code opened in the right directory, check if the Android and iOS folders are existing, if not run in the terminal – command **_npx cap add android/ iOS_** /running these commands it will download the Android or iOS folder
+2. Run command **_npx cap open_**
+3. Android Studio or XCode will be opened, where you can open the emulator and test the app
 
