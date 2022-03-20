@@ -1,0 +1,6 @@
+{
+	"appId": "eaaa.race.postapp",
+	"appName": "Post App",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
