@@ -22,10 +22,11 @@ During the designing process, we are focused on visual aesthetics by following T
 ### Balance 
 - gives the design structure and stability. It refers to how the weight of the elements is spread across the design. The elements don't have to be the same size to work together. A major feature on one side of the design and multiple little components on the other side can help us establish balance.
 
+![](https://i.ibb.co/vZmLsdD/bescipes.png)
 
 # Project structure and Thinking in React
 
-![This is an image](https://i.ibb.co/hDsMyNn/275541653-466689091865132-984808091937270758-n.png)
+![](https://i.ibb.co/hDsMyNn/275541653-466689091865132-984808091937270758-n.png)
  
 Thinking in React is a process of making everything in an app happen explicitly. It is all about breaking the UI into a component hierarchy. Ideally, one component should only do one thing. Any time a component does more than one thing, it should be refactored and decomposed into a collection of smaller components.
 After we have the component hierarchy, it is time to implement the app. The simplest solution is to create a version that takes your data model and renders the UI but does not include any interaction. In order to build a static version of an app that renders a data model, we have to build components that reuse other components and pass data using props. In this stage *`state`* should not be used.
@@ -33,8 +34,8 @@ We have to be able to make modifications to your underlying data model in order 
 
 # App Demo
 
-![This is an image](https://i.ibb.co/m4dc1z6/1.png)
-![This is an image](https://i.ibb.co/mXFr0JL/3.png)
+![](https://i.ibb.co/m4dc1z6/1.png)
+![](https://i.ibb.co/mXFr0JL/3.png)
 
 # How to run the app 
 1. Download the document from the repo
